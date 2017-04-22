@@ -15,4 +15,4 @@ A simple and lightweight WordPress plugin based on the 3D Bold Navigation articl
 
 <br> <br> 
 
-Watch make the menu working: https://www.youtube.com/watch?v=NeKL_PyuwyQ 
+Watch how to make the menu working: https://www.youtube.com/watch?v=NeKL_PyuwyQ 
