@@ -1,6 +1,8 @@
 # responsive-bold-navigation
   Add a cool and bold Responsive Menu in your WordPress site using Responsive Bold Navigation plugin. It supports Font Awesome Icons.
 
+*You can Download the plugin from WordPress Plugin Directory: https://wordpress.org/plugins/responsive-bold-navigation/*
+
 
 A simple and lightweight WordPress plugin based on the 3D Bold Navigation article by <a href="https://codyhouse.co/demo/3d-bold-navigation/index.html">Codyhouse</a>.
 
